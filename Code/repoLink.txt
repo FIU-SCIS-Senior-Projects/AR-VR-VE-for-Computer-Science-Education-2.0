@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>AR-VR-VE For Computer Science Education 2.0 </h1>
-<div>
-	<h2>Code <h2>
-			<h4><a href="https://github.com/OpenHID/ARVRVE-Senior-Project-" target="_blank">OpenHID Repository Link</a></h4>
-</div>
-</body>
-</html>
+AR-VR-VE For Computer Science Education 2.0
+The code for this project is located under the OpenHID Repository. Follow the link below to access it.
+https://www.github.com/OpenHID/ARVRVE-Senior-Project
